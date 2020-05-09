@@ -1,4 +1,3 @@
 function submitButtonClicked() {
-    console.log(document.getElementById('spring').checked)
+    console.log(document.getElementById('cold').checked)
 }
-    <button type="submit" onClick="submitButtonClicked">Submit</button>
